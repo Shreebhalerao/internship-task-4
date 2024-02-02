@@ -1,0 +1,107 @@
+@media (max-width: 1440px){
+    .card{
+        height: 260px;
+        width: 205px;
+    }
+    .input{
+        margin-left: 190px;
+      
+    }
+
+}
+
+@media (max-width: 1024px){
+    
+    ul{
+     gap: 13px;
+    }
+    .nav-bar img{
+        height: 50px;
+        margin-left: 30px;
+    }
+    .input{
+        color: rgb(255, 255, 255);
+        height: 20px;
+        width: 300px;
+        margin-left: 80px;
+      
+    }
+
+    .nav-bar{
+        gap: 10px;
+    }
+    .lang-btn{
+        height: 30px;
+        width: 30px;
+        font-size: 1.3rem;
+    }
+    .log-btn{
+        padding:8px 5px;
+        font-size: 0.8rem;
+        
+    }
+    .plan-btn {
+        height: 32px;
+        width: 70px;
+        font-size: 0.7rem;
+    }
+    .Main {
+      
+        height:450px;
+        position: relative;    
+        overflow: hidden;
+       
+    }
+
+     
+    .prev-btn{
+      margin-left: 170px;
+      width: 80px;
+      height: 35px;
+    }
+    .next-btn{
+        margin-right: 170px;
+        width: 80px;
+        height: 35px;
+    }
+    .watch{
+        width: 110px;
+        height: 40px;
+        top: 398px;
+        margin-left: 150px;
+       
+    
+    }
+
+    .header-btn {
+ 
+        top: 460px;
+        width: 100%;
+        transform: translateY(-50%);
+        
+    }
+
+    .card{
+        height: 210px;
+        width: 140px;
+    }
+    .movie-card{
+ 
+        gap: 10px;
+    }
+    .watch-more{
+        margin-right: 10px;
+        font-size: 1.1rem;
+      
+    }
+    .content-title{
+        font-size: 1rem;
+        font-weight: 600;
+    }
+    
+    .end-info{
+  
+    margin-left: 40px;
+   }
+
+}
